@@ -1,4 +1,4 @@
-# Remind me again how we did that?  Creating a convenient and reproducible workflows using Jupyter Notebook.
+# Remind me again how we did that?  Creating convenient and reproducible workflows using Jupyter Notebook.
 
 This content was presented at Data Day 2023, an event sponspored by the [Mid-Ohio Regional Planning Commission](https://www.morpc.org).
 
